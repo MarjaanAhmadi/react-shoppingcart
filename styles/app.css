@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header_title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header_description {
+  text-align: center;
+}
+
+.row-product {
+  margin: 20px auto;
+}
+
+.shop-card {
+  padding: 10px 16px;
+}
+
+.cart-button {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+
+.ant-form-item {
+  margin-bottom: 0;
+}
